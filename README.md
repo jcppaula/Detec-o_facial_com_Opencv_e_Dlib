@@ -7,7 +7,7 @@
 # Detecção Facial em imagem usando OpenCV e Dlib
 
 
-Neste notebook eu apresento o código para fazer reconhecimento facial em fotos, neste caso usei uma foto da minha família e foi possível detectar os três rostos com facilidade, o arquivo treinado que usei no projeto `hape_predictor_68_face_landmarks.dat` pode ser baixado clicando [neste link]([https://medium.com/@jcp.paula17](https://github.com/italojs/facial-landmarks-recognition/raw/master/shape_predictor_68_face_landmarks.dat) e o código pode ser replicado com qualquer foto.
+Neste notebook eu apresento o código para fazer reconhecimento facial em fotos, neste caso usei uma foto da minha família e foi possível detectar os três rostos com facilidade, o arquivo treinado que usei no projeto `hape_predictor_68_face_landmarks.dat` pode ser baixado clicando [neste link](https://github.com/italojs/facial-landmarks-recognition/raw/master/shape_predictor_68_face_landmarks.dat) e o código pode ser replicado com qualquer foto.
 
 Abaixo está o notebook com o código completo.
 
