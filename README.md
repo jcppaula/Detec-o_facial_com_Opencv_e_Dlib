@@ -1,1 +1,1 @@
-# Detec-o_facial_com_Opencv_e_Dlib
+# Deteccao_facial_com_Opencv_e_Dlib
